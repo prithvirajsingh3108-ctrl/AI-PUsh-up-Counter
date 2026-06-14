@@ -1,0 +1,18 @@
+{
+  "short_name": "PushUp AI",
+  "name": "PushUp AI - Computer Vision Tracker",
+  "description": "Your desktop Computer Vision coach for perfect form push-ups, real-time feedback, and offline tracking.",
+  "icons": [
+    {
+      "src": "/logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "display": "standalone",
+  "orientation": "portrait-primary"
+}

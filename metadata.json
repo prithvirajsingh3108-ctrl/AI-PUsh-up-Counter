@@ -1,0 +1,8 @@
+{
+  "name": "PushUp Tracker AI",
+  "description": "An AI-powered fitness application that uses computer vision and pose estimation to detect and count push-ups in real time with high accuracy.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
